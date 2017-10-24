@@ -38,7 +38,7 @@
   ],
   "devDependencies": {
     "@andreaspizsa/eslint-config": "0.0.1",
-    "ava": "^0.22.0",
+    "ava": "^0.23.0",
     "body-parser": "^1.18.2",
     "codecov": "^2.3.0",
     "commitizen": "^2.9.6",
